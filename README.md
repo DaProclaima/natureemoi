@@ -1,4 +1,4 @@
-# Just a little challenge
+# CSS review
 
 Website hosted at https://daproclaima.github.io/natureemoi/
 
